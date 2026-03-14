@@ -1,11 +1,11 @@
-## Howdy
+## Who Am I?
 
-I'm **Mort**.  
+Howdy.  I'm **Mort**. 🤘
 
-Sometimes I build things.
-
+Sometimes I build things.  
 Mostly I help other people build things.
 
+---
 ### Professional
 Perhaps best described as **Principal Product Manager / Junior Software Engineer**
 
@@ -15,11 +15,17 @@ Perhaps best described as **Principal Product Manager / Junior Software Engineer
 #### Previous 
  * **PFF** a.k.a. ProFootballFocus (2 years, Product Director)
  * **Nike** (8 years, Product Owner -> ... -> Product Director)
+ * **Others**: Bowdoin College; Motorola; Metapower
 
-### Personal 
-#### Blog 
-* (https://mortlandia.com) - public policy, mostly Portland, Oregon focused
+---
 
-#### Projects
- * Who Has the Belt? - https://whohasthebelt.com/about
- * Seabird Reader - https://www.seabirdreader.com/about
+### Projects
+* 🌲 [Mortlandia](https://mortlandia.com)
+   * _Purpose_: Public policy blog, mostly Portland, Oregon focused
+   * _Stack_: Substack 
+* 🏆 [Who Has the Belt?](https://whohasthebelt.com/)
+   * _Purpose_: Lineal championship tracker for NBA, WNBA, NHL, and PWHL
+   * _Stack_: Static Next.js app w/ Python data ingestion
+* 🐦 [Seabird Reader](https://www.seabirdreader.com/)
+   * _Purpose_: Social platform for discovering and sharing quality writing
+   * _Stack_: Monorepo w/ Next.js web + Expo mobile, shared packages, (legacy) Xano backend.
