@@ -10,6 +10,7 @@ Mostly I help other people build things.
 Perhaps best described as **Principal Product Manager / Junior Software Engineer**
 
 #### Current 
+ * **[Bellese](https://www.bellese.io/)** (govt. contracting / healthcare)
  * **Avid Squid LLC** (solo consulting)
 
 #### Previous 
