@@ -11,7 +11,9 @@ Perhaps best described as **Principal Product Manager / Junior Software Engineer
 
 #### Current 
  * **[Bellese](https://www.bellese.io/)** (govt. contracting / healthcare)
- * **Avid Squid LLC** (solo consulting)
+
+#### Dormant
+* **Avid Squid LLC** (solo consulting)
 
 #### Previous 
  * **PFF** a.k.a. ProFootballFocus (2 years, Product Director)
@@ -30,3 +32,6 @@ Perhaps best described as **Principal Product Manager / Junior Software Engineer
 * 🐦 [Seabird Reader](https://www.seabirdreader.com/)
    * _Purpose_: Social platform for discovering and sharing quality writing
    * _Stack_: Monorepo w/ Next.js web + Expo mobile, shared packages, (legacy) Xano backend.
+ 
+Occasional contributor to:
+* 🚈 [Streetmix.net](https://github.com/streetmix/streetmix)
